@@ -64,7 +64,10 @@
 13. VM 제거
 	- ```vagrant destroy```
 	
-	
+14. 결론
+	- 반영전 테스트를 위한 용도가 아니라면 그냥 도커 쓰자......
+
+
 출처 
 
  - https://www.vagrantup.com
